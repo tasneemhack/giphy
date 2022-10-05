@@ -1,0 +1,21 @@
+.body{
+  background-color:lightslategray ;
+}
+
+.structure{
+  background-color: aliceblue;
+  border: 2px solid black ;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 30px;
+  max-width: 50%; 
+}
+
+ .gifs {
+  border:1px solid black;
+  max-width: inherit;
+  height:300px;
+  overflow:scroll;" 
+}
+
+
